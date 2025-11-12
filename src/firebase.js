@@ -7,7 +7,7 @@ const firebaseConfig = {
   authDomain: "planner-ui-2cd08.firebaseapp.com",
   databaseURL: "https://planner-ui-2cd08-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "planner-ui-2cd08",
-  storageBucket: "planner-ui-2cd08.firebasestorage.app",
+  storageBucket: "planner-ui-2cd08.appspot.com",
   messagingSenderId: "828775083131",
   appId: "1:828775083131:web:0101751e44e306e72846de",
   measurementId: "G-EFYN6NN18H"
